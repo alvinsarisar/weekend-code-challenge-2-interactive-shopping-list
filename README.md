@@ -1,5 +1,5 @@
 # weekend-code-challenge-2-interactive-shopping-list
-#Interactive-hopping-List
+Interactive shopping List
 Navigations in this Application include; 
 
 Add items to the shopping list 
