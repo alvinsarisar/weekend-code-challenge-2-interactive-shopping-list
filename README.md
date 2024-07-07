@@ -13,7 +13,7 @@ This means that users are able to type items in an input box and upon clicking o
 When the mouse passes over an item or when an item is selected, icons appear to show the state it is in purchased or non purchased.
 
 
-                 #Edit Items:
+  Edit Items:
 
 
 As far as formatting of the text is concerned, the text of an item can be modified by double-clicking on the item.
