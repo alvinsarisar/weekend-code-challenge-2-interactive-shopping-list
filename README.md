@@ -75,7 +75,8 @@ In case if youre using a browser with built-in JavaScript, make sure it is enabl
 
 
 ................Contributing.............
-Contributions are welcome! If you discover any errors or if you need to make improvements on this<|reserved_special_token_277|> you can file an issue on GitHub or a pull request.
+
+Contributions are welcome! If you discover any errors or if you need to make improvements on this  you can file an issue on GitHub or a pull request.
 
 ...............License............
 It is a pleasure to note that this project is open source and any programmer is welcome to make  improvement on this code.
